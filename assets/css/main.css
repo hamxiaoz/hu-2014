@@ -281,3 +281,10 @@ ul, menu, dir {
 #networks .mail:hover {
   color: #f39c12;
 }
+
+.video {
+  padding-top: 70px;
+  /*position: relative;*/
+  /*top: 50%;*/
+  /*transform: translateY(-50%);*/
+}
